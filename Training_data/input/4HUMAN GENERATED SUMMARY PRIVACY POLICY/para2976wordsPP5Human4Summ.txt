@@ -1,0 +1,13 @@
+If a user is a member of Facebook, Facebook may collect and store the user's IP-address. Facebook states that it only collects anonymized IP-addresses in Germany. The user may also block Facebook's plugins using add-ons for browsers.
+
+We use twitter button provided by Twitter Inc that are marked using the text “Twitter” or “Follow” which enables the user to share an article or a website on twitter or follow us on twitter.Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. This data is only used for loading and displaying the Twitter-button.
+
+Users can prevent tracking of their online activity. One of them is setting a preference in your browser that alerts websites you visit that you do not want them to collect certain information about you
+
+We may disclose your personal data to contractors who assist us in providing the services we offer through the website.
+
+In the course of providing our peer review services, your data may be accessed by different members of the editorial team such as editors and assistants to the editorial office.We’ll share your personal data with third parties, like your institution or employer. This is required to manage and approve payment of associated Article Publication Charges
+
+We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data. Users' personal data will also be used when they read research journals and ebooks to create usage reports. 
+
+We take measures to maintain an adequate level of data protection when sharing users personal data with other countries. Data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. Users personal data is only retained as long as it is required, we do not hold the personal data if it is not required.

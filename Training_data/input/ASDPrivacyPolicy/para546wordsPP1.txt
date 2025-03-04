@@ -1,0 +1,26 @@
+Privacy Policy
+This policy was last updated on 05/16/2022. 
+This is the privacy policy (“policy”) for scientificamerican.com which is run and provided by Springer Nature America, Inc.  (we, us and our). Springer Nature America, Inc.  (Scientific American) is located at 1 New York Plaza New York, NY 10004. We can also be contacted at sadigital@sciam.com.
+We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.
+I. Summary of our processing activities
+We publish magazines, eBooks, news and data. Some of this material is freely available, some of it is only available to subscribers. The following summary offers a quick overview of the data processing activities that are undertaken on our website. You will find more detailed information under the indicated sections below.
+•	When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself (see III).
+•	If you are identified as belonging to a customer organization then we collect information in order to be able to provide usage reporting to that customer.
+•	In case you register for one our services or subscribe to our newsletters, further personal data will be processed in the scope of such services (see IV and V).
+•	Furthermore, your personal data will be used to provide you with relevant advertising for our services and products (see VII) and for statistical analysis that helps us to improve our website (see VIII). Additionally, we improve your website experience with third party content (see IX).
+•	Your personal data may be disclosed to third parties (see X) that might be located outside your country of residence; potentially, different data protection standards may apply (see XI).
+•	We have implemented appropriate safeguards to secure your personal data (see XII) and retain your personal data only as long as necessary (see XIII).
+•	Under the legislation applicable to you, you may be entitled to exercise certain rights with regard to the processing of your personal data (see XIV).
+II. Definitions
+•	Personal data: means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
+•	Processing: means any operation which is performed on personal data, such as collection, recording, organization, structuring, storage, adaptation or any kind of disclosure or other use.
+III. Informational use of the website
+When you visit our website for informational reasons, i.e. without registering for any of our provided services listed under IV and without providing us with personal data in any other form, we may automatically collect additional information about you which will contain personal data only in limited cases and which is automatically recognized by our server, such as:
+Examples might include:
+- your IP address;
+- your device type, name and IDs;
+- the date and time of your requests;
+- the content of your requests;
+- information on your browser version;
+- your screen resolution;
+- information on your operating system, including language settings.

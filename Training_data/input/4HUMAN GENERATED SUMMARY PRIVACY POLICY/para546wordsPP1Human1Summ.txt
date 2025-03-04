@@ -1,0 +1,7 @@
+This is the privacy policy for scientificamerican.com which is run and provided by Springer Nature America, Inc.
+We will only use the personal data gathered over this website as set out in this policy.
+• When you visit our website for informational reasons without setting up an account, only limited personal data will be processed to provide you with the website itself 
+Few important Definitions are as follows:
+• Personal data: means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
+• Processing: means any operation which is performed on personal data, such as collection, recording, organization, structuring, storage, adaptation or any kind of disclosure or other use.
+The details collected by website are IP address, device type, name and ID's, request, browser version, screen resolution and OS

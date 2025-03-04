@@ -1,0 +1,8 @@
+If the user is a member of Facebook and does not wish Facebook to collect personal data via the homepage and to link this with his data stored on Facebook, the user needs to log off from Facebook before going to this homepage.
+The user may also block Facebook’s plugins using add-ons for the user’s browser.
+Users can prevent tracking of their online activity. One of them is setting a preference in your browser that alerts websites you visit that you do not want them to collect certain information.
+This is referred to as a Do-Not-Track . However, currently our website does not respond to these DNT signals from web browsers.
+In the event that re-organisation happens or are sold to a third party, personal data held about users may be transferred to that re-organised entity or third party in compliance with applicable law.
+When users read research journals and eBooks or use database products, the organisation processes this personal data to create usage reports.
+The organisation has reasonable state of the art security measures in place to protect against the loss, misuse and
+alteration of personal data under control.

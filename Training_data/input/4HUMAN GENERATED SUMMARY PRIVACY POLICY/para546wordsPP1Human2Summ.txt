@@ -1,0 +1,5 @@
+The privacy policy for scientificamerican.com is summarised as follows:
+When a guest user accesses the website then only limited personal data is processed.
+When a registered customer logs in then information is collected in order to be able to provide usage reporting to that customer.
+When a customer is registered for any services or subscribes to the newsletters, further personal data is processed in the scope of such services.
+Personal data may be disclosed to third parties (see X) that might be located outside your country of residence; potentially, different data protection standards may apply. However appropriate safeguards are in place to secure the users data.

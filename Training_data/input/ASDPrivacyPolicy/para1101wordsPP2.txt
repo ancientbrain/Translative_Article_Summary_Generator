@@ -1,0 +1,34 @@
+We use such information only to assist us in providing an effective service (e.g. to adapt our website to the needs of your device or to allow you to log in to our website), and to collect broad demographic information for anonymized, aggregated use.
+If you are identified by IP or equivalent method as belonging to a customer organization such as university or a company then we will also collect the identity of that organization and use it to create usage reports which show the organization how much of the content we publish is being read by their students, members or employees. This information does not contain anything related to a personal login unless (a) you are a nominated administrator for that organization or (b) your organization specifically requires it as a part of a usage-based access contract.
+The personal data automatically collected is necessary for us to provide the website, Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest to guarantee the website’s stability and security, Article 6 sec. 1 sent. 1 lit. f GDPR.
+IV. Registration for our services
+Access to subscription content is provided via a variety of mechanisms such as IP site licenses, login via third party federated identity providers or by an personal account with us. If your access to our content is provided by an organization or an institution like a university or a company then they choose the access method on your behalf. A personal account is required to purchase content directly from us, or to receive personal services like newsletters and alerts.
+If you need to create a personal login with us then we will store and process the following:
+- Information (such as your name, user name and email address) that is provided by registration;
+- Information in connection with an account sign-in facility (e.g. log-in and password details);
+- Communications sent by you (e.g. via e-mail or website communication forms).
+The information that is necessary for the performance of the service is labelled accordingly. All further information is provided voluntarily.
+We will process the personal data you provide to:
+Examples might include:
+- Identify you at sign-in;
+- Provide you with the services and information offered through the website or which you request; 
+- Administer your account;
+- Communicate with you;
+- (behavioral) Advertising and profiling
+- Facilitate attendance of conference
+- Provide access (where appropriate) to other Springer Nature group content if you so request
+For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR. The use of your personal data for behavioural advertising and profiling is done with consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
+We use the personal data and contact data you provide by registration to inform you directly about our additional products and services. The use of your personal data for directly advertising related products and services is with consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
+You can object to the use of your personal data for direct marketing at any time. We will then refrain from any processing to the extent it is related to such purposes. You may opt-out of direct marketing via opt-out links in any marketing communication or via user profile pages on the website (where available). You can also inform us about your objection by contacting our Data Protection Office at dataprotection@springernature.com.
+We offer notification services such as table-of-contents or new book alerts. This service is provided by means of a double-opt-in. Thus, you will receive an email containing a link by which you can confirm that you are the owner of the email address and wish to be notified via our email service. You can end this service by opting out via the link provided in each notification email. This notification service is based on your consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
+Registration data is kept until such time as an account deletion request is made. If such a request is received we will erase your data within 30 days. Statutory storage obligations or the need for legal actions that may arise from misconduct within the services or payment problems can lead to a longer retention of your personal data. In this case, we will inform you accordingly.
+V. Information about the specific uses that require registration
+1. Blog
+You can publicly comment on our blog where we post a variety of articles to inform you about our activities. When posting a comment your name or user name will be made public. To be able to comment on our blog you will have to register as described in IV.
+In addition to the extent of processing described under IV, when you post a comment we will retain some of your personal data such as your IP address and name and other metadata such as time of posting. This is necessary to defend ourselves from possible liability claims that may arise from unlawful comments posted by you and reflects our legitimate interest with regard to the legal justification of this processing activity in Article 6 sec. 1 sent. 1 lit. f GDPR.
+We reserve the right to delete comments that are off-topic, spam, abusive, use excessive foul language, include ad hominem attacks or offend against legal regulations.
+2. Web shop
+For the use of our web shop you have to set up an account as described under IV.  Your customer account retains your personal data for future purchases. You can change your personal data in your account’s settings. To delete your account, please contact customer service at help@sciam.com.  If you have made a purchase with your account, your account cannot be deleted.  However, we can render your account inoperable by removing your personal information, including your email address.  We will not perform any action to your account without your expressed permission. This processing is based on Article 6 sec. 1 sent. 1 lit. b.
+By statutory law we are required to retain the provided financial data in relation to transactions (including address, payment and order information) for ten years. However, after 2 years we will restrict the processing of your personal data to comply with the statutory requirements and will not process the personal data any further.  Regarding this, the retention of your personal data is based on Article 6 sec. 1 sent. 1 lit. c GDPR.
+3. Article alerts and Newsletters
+With your email address you can subscribe to our newsletters that provide you with the latest news about our products and services if you consent to receiving such newsletters.
